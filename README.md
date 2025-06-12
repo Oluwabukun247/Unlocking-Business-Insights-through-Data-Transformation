@@ -4,7 +4,7 @@ As a data analyst, I'm excited to share my recent journey with Power BI for data
 
 ### The Challenge
 
-📌 Imagine having multiple datasets from different sources, each with its own structure and format. How can we combine and analyze this data to gain meaningful insights? This is where Power Query comes in – a powerful tool for data transformation and integration.
+ Imagine having multiple datasets from different sources, each with its own structure and format. How can we combine and analyze this data to gain meaningful insights? This is where Power Query comes in – a powerful tool for data transformation and integration.
 
 ### The Solution
 
